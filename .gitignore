@@ -1,14 +1,23 @@
 
 Amazing Numbers/*
-!Amazing Numbers/task/src
+
+
+!Amazing Numbers/task/
+
+
+Amazing Numbers/task/*
+
+
+!Amazing Numbers/task/src/
+
+
+!Amazing Numbers/task/src/**
 
 
 **/course/
 **/course-*
 *.course
 course-info.yaml
-
-
 .idea/
 out/
 target/
