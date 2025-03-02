@@ -1,7 +1,9 @@
 
 Amazing Numbers/*
 !Amazing Numbers/task/
-
+task/build
+task/out
+task/test
 
 **/course/
 **/course-*
