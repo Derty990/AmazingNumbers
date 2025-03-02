@@ -1,9 +1,7 @@
 
 Amazing Numbers/*
-!Amazing Numbers/task/
-task/build
-task/out
-task/test
+!Amazing Numbers/task/src
+
 
 **/course/
 **/course-*
