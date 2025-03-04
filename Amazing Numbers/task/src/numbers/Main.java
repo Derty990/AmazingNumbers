@@ -370,7 +370,7 @@ class AmazingNumbers{
         }
         return false;
     }
-    D:\Materiały na studia\Materiały na studia\Semestr IV\ProgramowanieJava\Amazing Numbers\Amazing Numbers\task\src\numbers
+   
     private void printInLine() {
         StringBuilder sb = new StringBuilder();
         sb.append("\t\t\t");
